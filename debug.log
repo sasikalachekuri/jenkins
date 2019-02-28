@@ -1,0 +1,5 @@
+[0205/124418.242:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0205/124418.250:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0205/124418.265:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0205/124418.265:ERROR:exception_snapshot_win.cc(88)] thread ID 5648 not found in process
+[0205/124418.266:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)

@@ -1,0 +1,26 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite">
+    <groups>
+    </groups>
+    <test name="Test">
+      <class name="Google.GoolgeTest">
+        <test-method status="PASS" signature="setup()" name="setup" is-config="true" duration-ms="6186" started-at="2019-01-29T18:27:28Z" finished-at="2019-01-29T18:27:34Z">
+        </test-method>
+        <test-method status="PASS" signature="google()" name="google" duration-ms="4956" started-at="2019-01-29T18:27:34Z" finished-at="2019-01-29T18:27:39Z">
+        </test-method>
+        <test-method status="PASS" signature="CloseBrowser()" name="CloseBrowser" is-config="true" duration-ms="2325" started-at="2019-01-29T18:27:39Z" finished-at="2019-01-29T18:27:41Z">
+        </test-method>
+      </class>
+      <class name="Google.Ymazontitle">
+        <test-method status="PASS" signature="setup()" name="setup" is-config="true" duration-ms="3312" started-at="2019-01-29T18:27:41Z" finished-at="2019-01-29T18:27:45Z">
+        </test-method>
+        <test-method status="PASS" signature="google()" name="google" duration-ms="6781" started-at="2019-01-29T18:27:45Z" finished-at="2019-01-29T18:27:51Z">
+        </test-method>
+        <test-method status="PASS" signature="CloseBrowser()" name="CloseBrowser" is-config="true" duration-ms="185" started-at="2019-01-29T18:27:51Z" finished-at="2019-01-29T18:27:52Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

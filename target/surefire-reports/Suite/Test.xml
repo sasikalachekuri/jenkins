@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" failures="0" tests="2" time="23.754" errors="0">
+  <properties/>
+  <testcase name="google" time="4.956" classname="Google.GoolgeTest"/>
+  <testcase name="google" time="6.781" classname="Google.Ymazontitle"/>
+</testsuite>
